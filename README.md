@@ -1,7 +1,7 @@
 
 README
 
-# TXT Angular 6 Challenge
+# TXT Angular 7 Challenge
 
 This is the starter template for the Angular 6 challenge.
 
